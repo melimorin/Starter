@@ -20,7 +20,7 @@
 
 ## Run the project
 
-1. php artisan server
+1. php artisan serve
 2. npm run watch
 
 ## Possible dependencies
