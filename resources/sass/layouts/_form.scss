@@ -1,0 +1,29 @@
+.form {
+  width: 100%;
+
+  .input {
+    margin-bottom: 0.5rem;
+
+    label {
+      display: block;
+      margin-bottom: 0.25rem;
+    }
+
+    input[type=text],
+    input[type=email],
+    input[type=password] {
+      width: 100%;
+      padding: 0.25rem 0.5rem;
+    }
+
+    select {
+      width: 100%;
+      padding: 0.25rem 0.5rem;
+    }
+
+    textarea {
+      width: 100%;
+      padding: 0.25rem 0.5rem;
+    }
+  }
+}
